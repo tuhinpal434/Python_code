@@ -1,5 +1,5 @@
 #this is \\ double backslash
-print("this is \\\ double backslash")
+print(r"this is \\ double backslash")
 # these are /\/\/\/\/\ mountains
 print("these are /\\/\\/\\/\\/\\ mountains")
 # he is     awesome
